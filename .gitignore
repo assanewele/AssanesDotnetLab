@@ -1,0 +1,83 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core
+project.assets.json
+*.runtimeconfig.dev.json
+
+# Publish output
+publish/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Environment files
+.env
+
+# IIS Express
+.vs/
+config/applicationhost.config
+
+# SQL Server
+*.mdf
+*.ldf
+
+# Coverage / test
+TestResults/
+*.coverage
+*.coveragexml
+
+# Logs and temp
+*.tmp
+*.temp
+
+# Azure
+.azure/
+
+# Docker
+docker-compose.override.yml
+
+# Rider cache
+.idea/
+
+# Others
+*.pidb
+*.svclog
+*.cache
